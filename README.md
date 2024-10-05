@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌊 About Me:
 🐠 Recently graduated from an ITS course as a "Higher Technician for Software Development," I am looking for an opportunity in a company where I can start my career as a developer.<br><br>🪼 I am particularly passionate about backend development and would love to work in a dynamic and stimulating environment where I can grow both technically and professionally. I am looking for a workplace that encourages collaboration and continuous learning, with the goal of becoming a true professional in the field.<br><br>🌌 My dream is to develop software that is not only high-quality but also helps people and improves their daily lives.
 
 
