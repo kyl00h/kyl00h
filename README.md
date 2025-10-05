@@ -1,5 +1,10 @@
-# 🌊 About Me:
-🐠 Recently started my journey as a software developer, I've graduated from an ITS course as a "Higher Technician for Software Development".<br><br>🪼 I am particularly passionate about backend development and would love to work in a dynamic and stimulating environment where I can grow both technically and professionally. I am looking for a workplace that encourages collaboration and continuous learning, with the goal of becoming a true professional in the field.<br><br>🌌 My dream is to develop software that is not only high-quality but also helps people and improves their daily lives.
+# 🌊 About Me
+<br>
+🐠 I’m a Full Stack Software Developer with a stronger passion for backend development. Over the past year, I’ve been working on real-world projects that strengthened my technical skills and deepened my appreciation for well-structured, maintainable code.
+<br><br>
+🪼 I particularly enjoy working in complex and dynamic ecosystems, where different components interact and challenge me to think beyond the obvious. I value clean architecture, good coding practices, and the pursuit of high-quality software that stands the test of time.
+<br><br>
+🌌 My objective is to keep growing as a developer — building software that not only meets high technical standards but also brings real value and improvement to people’s daily lives.
 
 
 # 💻 Tech Stack:
